@@ -62,7 +62,7 @@ Toda la documentación técnica del proyecto — restricciones de diseño, arqui
 
 > **⬅️ Pegar aquí el link del video (máx. 5 min), reproducible sin necesidad de descarga dentro de MS Teams, con todos los integrantes en cámara.**
 
-[![Video demostrativo](https://img.shields.io/badge/▶️-Ver_video_demostrativo-critical?style=for-the-badge)](PEGAR_AQUÍ_EL_LINK_DEL_VIDEO)
+[![Video demostrativo](https://img.shields.io/badge/▶️-Ver_video_demostrativo-critical?style=for-the-badge)](https://drive.google.com/file/d/1P2EVXW7vv0kwAGzXGNZH_OP_AUegjNyq/view?usp=sharing&t=2.583)
 
 ## 🔧 Simulación en Wokwi
 
