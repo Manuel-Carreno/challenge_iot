@@ -5,6 +5,8 @@
 
 **IoT 262 · 2026-2 · Challenge #1 · Universidad de La Sabana**
 
+**Camilo Gutierrez, Manuel Carreño, Daniel Sanabria**
+
 [![Wiki](https://img.shields.io/badge/📖-Wiki_completa-blue)](../../wiki)
 [![Wokwi](https://img.shields.io/badge/🔧-Simulación_Wokwi-orange)](#-simulación-en-wokwi)
 [![Video](https://img.shields.io/badge/🎥-Video_demo-red)](#-video-demostrativo)
@@ -39,7 +41,7 @@ Estas señales se combinan en un **puntaje de riesgo ponderado**, y el sistema r
 - 🔊 Buzzer sonoro en estado crítico
 - 🖥️ Pantalla OLED con las lecturas en tiempo real
 
-> **Nota:** el diseño original contemplaba un sensor BME280 (temp+hum+presión integrado). En la simulación de Wokwi se usó **DHT22 + BMP180** en su lugar, ya que el BME280 no está disponible en ese entorno. Ver el detalle en la [página 2 de la wiki](../../wiki/02-Solucion-Propuesta#20-nota-sobre-el-hardware-simulado-bme280--bmp180--dht22).
+> **Nota:** el diseño original contemplaba un sensor BME280 (temp+hum+presión integrado). En la simulación de Wokwi se usó **DHT22 + BMP180** en su lugar, ya que el BME280 no está disponible en ese entorno. Ver el detalle en la [página 2 de la wiki](../../wiki/02‐Solucion‐Propuesta#20-nota-sobre-el-hardware-simulado-bme280--bmp180--dht22).
 
 ## 🗂️ Documentación completa
 
