@@ -1,9 +1,9 @@
 <div align="center">
 
 # 💧 Sistema IoT de Monitoreo de Riesgo Hídrico
-### Sabana Centro, Cundinamarca — Alerta temprana de desabastecimiento por El Niño
+### Sabana Centro, Cundinamarca — Alerta temprana de desabastecimiento por fenómeno El Niño
 
-**IoT 262 · 2026-2 · Challenge #1 · Universidad de La Sabana**
+**IoT · 2026-2 · Challenge #1 · Universidad de La Sabana**
 
 **Camilo Gutierrez, Manuel Carreño, Daniel Sanabria**
 
