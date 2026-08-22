@@ -8,7 +8,7 @@
 [![Wiki](https://img.shields.io/badge/📖-Wiki_completa-blue)](../../wiki)
 [![Wokwi](https://img.shields.io/badge/🔧-Simulación_Wokwi-orange)](#-simulación-en-wokwi)
 [![Video](https://img.shields.io/badge/🎥-Video_demo-red)](#-video-demostrativo)
-[![Estado](https://img.shields.io/badge/estado-en_desarrollo-yellow)]()
+[![Estado](https://img.shields.io/badge/prototipo-completado-green)]()
 
 </div>
 
