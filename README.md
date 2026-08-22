@@ -50,12 +50,12 @@ Toda la documentación técnica del proyecto — restricciones de diseño, arqui
 | Página | Contenido |
 |---|---|
 | [Home](../../wiki/Home) | Índice general |
-| [1. Resumen y motivación](../../wiki/01-Resumen-y-Motivacion) | Contexto, motivación, justificación |
-| [2. Solución propuesta](../../wiki/02-Solucion-Propuesta) | Arquitectura, criterios de diseño, UML, esquemático |
-| [3. Configuración experimental](../../wiki/03-Configuracion-Experimental-y-Calibracion) | De dónde sale cada valor de calibración del código |
-| [4. Autoevaluación](../../wiki/04-Autoevaluacion) | Protocolo de pruebas y sus límites |
-| [5. Conclusiones y referencias](../../wiki/05-Conclusiones-y-Referencias) | Retos, trabajo futuro, bibliografía IEEE |
-| [6. Anexos](../../wiki/06-Anexos) | Código fuente documentado, esquemáticos |
+| [1. Resumen y motivación](../../wiki/01‐Resumen‐y‐Motivacion) | Contexto, motivación, justificación |
+| [2. Solución propuesta](../../wiki/02‐Solucion‐Propuesta) | Arquitectura, criterios de diseño, UML, esquemático |
+| [3. Configuración experimental](../../wiki/03‐Configuracion‐Experimental‐y‐Calibracion) | De dónde sale cada valor de calibración del código |
+| [4. Autoevaluación](../../wiki/04‐Autoevaluacion) | Protocolo de pruebas y sus límites |
+| [5. Conclusiones y referencias](../../wiki/05‐Conclusiones‐y‐Referencias) | Retos, trabajo futuro, bibliografía IEEE |
+| [6. Anexos](../../wiki/06‐Anexos) | Código fuente documentado, esquemáticos |
 | [7. Uso de IA](../../wiki/07-Uso-de-IA) | Transparencia sobre herramientas de IA usadas |
 
 ## 🎥 Video demostrativo
@@ -77,14 +77,12 @@ Toda la documentación técnica del proyecto — restricciones de diseño, arqui
 | ESP32 DevKit | Microcontrolador central | ✅ Disponible |
 | DHT22 | Temperatura + humedad (simulación Wokwi) | ✅ Disponible en simulación |
 | BMP180 | Presión atmosférica (simulación Wokwi) | ✅ Disponible en simulación |
-| HC-SR04 | Nivel de agua (ultrasónico) | ⚠️ Pendiente de adquisición física |
-| LDR | Radiación solar / luz | ⚠️ Pendiente de adquisición física |
+| HC-SR04 | Nivel de agua (ultrasónico) | ✅ Disponible |
+| LDR | Radiación solar / luz | ✅ Disponible |
 | OLED SSD1306 | Visualización local | ✅ Disponible |
 | LEDs verde/amarillo/rojo + buzzer | Alerta in situ | ✅ Disponible |
 
 ## 👥 Equipo y roles
-
-> Ver también el acta de reunión y evaluación del equipo: **[⬅️ pegar aquí el link o adjuntar el archivo]**.
 
 | Integrante | Rol | Contribución principal |
 |---|---|---|
@@ -98,7 +96,7 @@ Este proyecto usó Claude (Anthropic) como apoyo en la redacción de la document
 
 ## 📚 Referencias principales
 
-Ver la lista completa en formato IEEE en la [página de Conclusiones y Referencias](../../wiki/05-Conclusiones-y-Referencias) de la wiki.
+Ver la lista completa en formato IEEE en la [página de Conclusiones y Referencias](../../wiki/05‐Conclusiones‐y‐Referencias) de la wiki.
 
 ---
 
