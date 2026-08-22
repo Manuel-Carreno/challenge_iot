@@ -68,7 +68,7 @@ Toda la documentación técnica del proyecto — restricciones de diseño, arqui
 
 > **⬅️ Pegar aquí el link público del proyecto de Wokwi.**
 
-[![Abrir en Wokwi](https://img.shields.io/badge/Wokwi-Abrir_simulación-00979D?style=for-the-badge)](PEGAR_AQUÍ_EL_LINK_DE_WOKWI)
+[![Abrir en Wokwi](https://img.shields.io/badge/Wokwi-Abrir_simulación-00979D?style=for-the-badge)](https://wokwi.com/projects/472298863408540673)
 
 ## 🧩 Hardware usado
 
