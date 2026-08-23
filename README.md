@@ -60,13 +60,9 @@ Toda la documentación técnica del proyecto — restricciones de diseño, arqui
 
 ## 🎥 Video demostrativo
 
-> **⬅️ Pegar aquí el link del video (máx. 5 min), reproducible sin necesidad de descarga dentro de MS Teams, con todos los integrantes en cámara.**
-
 [![Video demostrativo](https://img.shields.io/badge/▶️-Ver_video_demostrativo-critical?style=for-the-badge)](https://drive.google.com/file/d/1P2EVXW7vv0kwAGzXGNZH_OP_AUegjNyq/view?usp=sharing&t=2.583)
 
 ## 🔧 Simulación en Wokwi
-
-> **⬅️ Pegar aquí el link público del proyecto de Wokwi.**
 
 [![Abrir en Wokwi](https://img.shields.io/badge/Wokwi-Abrir_simulación-00979D?style=for-the-badge)](https://wokwi.com/projects/472298863408540673)
 
@@ -75,8 +71,7 @@ Toda la documentación técnica del proyecto — restricciones de diseño, arqui
 | Componente | Función | Estado |
 |---|---|---|
 | ESP32 DevKit | Microcontrolador central | ✅ Disponible |
-| DHT22 | Temperatura + humedad (simulación Wokwi) | ✅ Disponible en simulación |
-| BMP180 | Presión atmosférica (simulación Wokwi) | ✅ Disponible en simulación |
+| BME180 | Presión + Temperatura + Humedad | ✅ Disponible en simulación |
 | HC-SR04 | Nivel de agua (ultrasónico) | ✅ Disponible |
 | LDR | Radiación solar / luz | ✅ Disponible |
 | OLED SSD1306 | Visualización local | ✅ Disponible |
