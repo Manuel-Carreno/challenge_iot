@@ -31,8 +31,7 @@ Un ESP32 lee, cada 2 segundos, cuatro señales físicas de un punto de almacenam
 | Sensor | Variable | Rol |
 |---|---|---|
 | 🔊 HC-SR04 | Nivel de agua | Disponibilidad física directa del recurso |
-| 🌡️ DHT22 | Temperatura | Detecta anomalías de calor |
-| 💧 DHT22 | Humedad relativa | Indicador de sequía atmosférica |
+| 🌡️💧🌪️ BME280 | Temperatura, humedad, presión | Detecta anomalías de calor y sequía atmosférica |
 | ☀️ LDR | Radiación / luz | Proxy de evaporación potencial |
 
 Estas señales se combinan en un **puntaje de riesgo ponderado**, y el sistema responde con una alerta **completamente local** — sin WiFi, sin LoRa, sin ninguna red — mediante:
@@ -71,8 +70,7 @@ Toda la documentación técnica del proyecto — restricciones de diseño, arqui
 | Componente | Función | Estado |
 |---|---|---|
 | ESP32 DevKit | Microcontrolador central | ✅ Disponible |
-| BME180 | Presión + Temperatura + Humedad | ✅ Disponible en simulación |
-| BME280 | Presión + Temperatura + Humedad | ✅ Disponible en montaje |
+| BME280 | Presión + Temperatura + Humedad | ✅ Disponible |
 | HC-SR04 | Nivel de agua (ultrasónico) | ✅ Disponible |
 | LDR | Radiación solar / luz | ✅ Disponible |
 | OLED SSD1306 | Visualización local | ✅ Disponible |
