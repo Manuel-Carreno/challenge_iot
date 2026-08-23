@@ -72,6 +72,7 @@ Toda la documentación técnica del proyecto — restricciones de diseño, arqui
 |---|---|---|
 | ESP32 DevKit | Microcontrolador central | ✅ Disponible |
 | BME180 | Presión + Temperatura + Humedad | ✅ Disponible en simulación |
+| BME280 | Presión + Temperatura + Humedad | ✅ Disponible en montaje |
 | HC-SR04 | Nivel de agua (ultrasónico) | ✅ Disponible |
 | LDR | Radiación solar / luz | ✅ Disponible |
 | OLED SSD1306 | Visualización local | ✅ Disponible |
