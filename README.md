@@ -61,7 +61,7 @@ Toda la documentación técnica del proyecto — restricciones de diseño, arqui
 
 [![Video Challenge 1](https://img.shields.io/badge/▶️-Video_Challenge_1-critical?style=for-the-badge)](https://drive.google.com/file/d/1P2EVXW7vv0kwAGzXGNZH_OP_AUegjNyq/view?usp=sharing&t=2.583)
 
-[![Video challenge 2](https://img.shields.io/badge/▶️-Video_Challenge_2-critical?style=for-the-badge)]([https://www.youtube.com/watch?v=K3B9J0wQEBg](https://drive.google.com/file/d/1lkiqnkszwCIkU-OEZxHKXko38EKrM1s0/view?usp=sharing)
+[![Video challenge 2](https://img.shields.io/badge/▶️-Video_Challenge_2-critical?style=for-the-badge)](https://drive.google.com/file/d/1lkiqnkszwCIkU-OEZxHKXko38EKrM1s0/view?usp=sharing)
 
 ## 🔧 Simulación en Wokwi
 
