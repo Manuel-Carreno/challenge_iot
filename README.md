@@ -92,11 +92,12 @@ Toda la documentación técnica del proyecto — restricciones de diseño, arqui
 
 ## 👥 Equipo y roles
 
-| Integrante | Rol | Contribución principal |
-|---|---|---|
-| Manuel Carreño | Líder | Simulación del proyecto y montaje |
-| Camilo Gutiérrez | Colaborador | Grabación y edición del video, compra de materiales y montaje |
-| Daniel Sanabria | Colaborador | Documentación de la Wiki, montaje y maqueta |
+| Integrante | Rol | Contribuciones en Challenge #1 y #2 | Contribuciones en Challenge #3 |
+|---|---|---|---|
+| Manuel Carreño | Líder | Simulación del proyecto, montaje y servidor web/tablero de control | Firmware MQTT del ESP32, montaje físico, tomas del prototipo para el video |
+| Camilo Gutiérrez | Colaborador | Grabación y edición del video, compra de materiales y montaje | Módulo de IA con Gemini, configuración de Ubidots y de los correos, edición del video |
+| Daniel Sanabria | Colaborador | Documentación de la Wiki, evapotranspiración potencial (ET₀) y banco de pruebas | Gateway en la Raspberry Pi (Mosquitto, SQLite, reenvío a Ubidots), recolección de datos reales, Wiki |
+
 
 ## 🤖 Uso de Inteligencia Artificial
 
