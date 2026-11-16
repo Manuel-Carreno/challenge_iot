@@ -1,0 +1,8 @@
+# /etc/mosquitto/acl  (permisos por usuario; las claves estan en /etc/mosquitto/passwd, cifradas)
+user esp32
+topic write sabana/hidrico/nodo01/telemetria
+topic write sabana/hidrico/nodo01/estado_dispositivo
+topic read sabana/hidrico/nodo01/cmd/#
+
+user gateway
+topic readwrite sabana/hidrico/#

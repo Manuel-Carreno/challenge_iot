@@ -1,0 +1,16 @@
+[Unit]
+Description=Gateway hidrico (ESP32 -> MQTT -> SQLite -> Ubidots)
+After=network-online.target mosquitto.service
+Wants=network-online.target mosquitto.service
+
+[Service]
+Type=simple
+User=danielsanabria
+WorkingDirectory=/home/danielsanabria/gateway-hidrico
+EnvironmentFile=/etc/gateway-hidrico.env
+ExecStart=/home/danielsanabria/gateway-hidrico/.venv/bin/python -u gateway.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
